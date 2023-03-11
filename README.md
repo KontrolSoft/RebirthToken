@@ -12,7 +12,7 @@
 
 ### Rebirth Finance // Rebirth Token ( $REPA )
 
-Rebirth Fintech is a solution that offers all the talents of the financial world under the social roof in the best way. Includes Credit Applications, Trading Instruments, Payment and Collection Systems, API Solutions, Trading Applications, B2B, B2C and Asset Management Applications.
+Rebirth Fintech is a solution that brings together all the talents of the financial world under one social roof.Includes credit applications, trading instruments, payment and collection systems, API solutions, trading applications, B2B, B2C, and asset management applications.
 
 
 ## Overview
